@@ -1,0 +1,33 @@
+<table border="1">
+    <caption><h2>EMPLOYEES</h2></caption>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>JobTitle</th>
+            <th>ReportsTo</th>
+            <th>VisaStatus</th>
+            <th>VisaExpiry</th>
+            <th>Nationality</th>
+            <th>Project</th>
+            <th>AgileScrum</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor=" let employee of employees">
+            <td>{{employee.Id}}</td>
+            <td>{{employee.FirstName}}</td>
+            <td>{{employee.LastName}}</td>
+            <td>{{employee.JobTitle}}</td>
+            <td>{{employee.ReportsTo}}</td>
+            <td>{{employee.VisaStatus}}</td>
+            <td>{{employee.VisaExpiry}}</td>
+            <td>{{employee.Nationality}}</td>
+            <td>{{employee.Project}}</td>
+            <td>{{employee.AgileScrum}}</td>
+        </tr>
+    </tbody>
+
+
+</table>

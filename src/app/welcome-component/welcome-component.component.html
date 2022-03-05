@@ -1,0 +1,37 @@
+<p>Welcome {{Id}} to Employee Attendance Management System</p>
+
+<table border="1">
+    <caption><h2>EMPLOYEE {{Id}} DETAILS</h2></caption>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>JobTitle</th>
+            <th>ReportsTo</th>
+            <th>VisaStatus</th>
+            <th>VisaExpiry</th>
+            <th>Nationality</th>
+            <th>Project</th>
+            <th>AgileScrum</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{Id}}</td>
+            <td>{{Id}}.FirstName</td>
+            <td>{{Id}}.LastName</td>
+            <td>{{Id}}.JobTitle</td>
+            <td>{{Id}}.ReportsTo</td>
+            <td>{{Id}}.VisaStatus</td>
+            <td>{{Id}}.VisaExpiry</td>
+            <td>{{Id}}.Nationality</td>
+            <td>{{Id}}.Project</td>
+            <td>{{Id}}.AgileScrum</td>
+        </tr>
+    </tbody>
+
+
+</table>
+
+<button (click)=getWelcomeMessage() class="btn btn-success">WELCOME</button>
