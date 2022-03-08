@@ -2,4 +2,4 @@
 
 ## Apache 3.0
 
-This is an awesome License.txt file for the platform
+Modifying License.txt file
