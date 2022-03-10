@@ -3,3 +3,5 @@
 ## Apache 3.0
 
 Modifying License.txt file
+
+Personal License.txt file
