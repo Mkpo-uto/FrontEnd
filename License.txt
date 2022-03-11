@@ -6,6 +6,6 @@ Modifying License.txt file
 
 Personal License.txt file
 
-Edit on example branch
-
 Edit on update-lincense branch
+
+Updated locally
