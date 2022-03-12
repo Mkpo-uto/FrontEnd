@@ -31,3 +31,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ##Repository Purpose
 
 This file is just a README file
+
+The purpose of this edit is to provide examples
+on how to use Git and GitHub together.
