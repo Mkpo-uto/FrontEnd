@@ -4,8 +4,4 @@
 
 Modifying License.txt file
 
-Personal License.txt file
-
-Edit on update-lincense branch
-
-Updated locally
+Updates made on master on GitHub before Rebase
