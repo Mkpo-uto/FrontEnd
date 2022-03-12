@@ -30,6 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ##Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+This file is just a README file
